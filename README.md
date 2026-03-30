@@ -1,4 +1,4 @@
-# Ciao, sono Giuseppe Mele 👋
+# Ciao, sono Giuseppe Mele 🍏
 
 Sono un sviluppatore web in formazione con background in Informatica e Tecnologie per la Produzione del Software.  
 
