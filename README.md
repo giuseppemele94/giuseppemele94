@@ -1,40 +1,60 @@
-# Ciao, sono Giuseppe Mele 🍏
+<h1 align="center">Ciao, sono Giuseppe Mele 🍏</h1>
 
-Sono un **Junior Full Stack Web Developer** con background in **Informatica e Tecnologie per la Produzione del Software**.  
-Attualmente sto seguendo un percorso di formazione in **Full Stack Web Development con Boolean**, dove sto consolidando competenze in **frontend, backend e database** attraverso progetti pratici.
+<p align="center">
+  Sono un <strong>Junior Full Stack Web Developer</strong> con background in <strong>Informatica e Tecnologie per la Produzione del Software</strong>.<br>
+  Attualmente sto seguendo un percorso di formazione in <strong>Full Stack Web Development con Boolean</strong>.
+</p>
 
+<h2 align="center">Frontend</h2>
 
-## Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<h2 align="center">Backend</h2>
 
-## Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<h2 align="center">Database</h2>
 
-## Database
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<h2 align="center">CMS</h2>
 
-## CMS
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<h2 align="center">Progetti in evidenza</h2>
 
-## Progetti in evidenza
+<p align="center">
+  🔥 <strong>BoolZip</strong> – e-commerce sviluppato con React, Node.js, Express e MySQL<br>
+  🌐 <strong>MelaTek Web Solutions</strong> – portfolio e siti vetrina per professionisti e attività locali<br>
+  🛠️ Progetti pratici sviluppati durante il mio percorso di formazione
+</p>
 
-- 🔥 **BoolZip** – e-commerce sviluppato con React, Node.js, Express e MySQL
-- 🌐 **MelaTek Web Solutions** – portfolio e siti vetrina per professionisti e attività locali
-- 🛠️ Progetti pratici sviluppati durante il mio percorso di formazione
+<h2 align="center">Connect with me</h2>
 
-## Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/giuseppe-mele-">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/peppemele1/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.melatekweb.it/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-mele-)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/peppemele1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.melatekweb.it/)
-
----
-⭐ Sempre in crescita, un progetto alla volta.
+<p align="center">
+  ⭐ Sempre in crescita, un progetto alla volta.
+</p>
