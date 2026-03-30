@@ -25,8 +25,6 @@ Sono un sviluppatore web in formazione con background in Informatica e Tecnologi
 
 ## Contatti
 
-## Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-mele-)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/peppemele1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.melatekweb.it/)
